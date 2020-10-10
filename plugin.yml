@@ -1,0 +1,8 @@
+name: BeatCraft
+version: 0.0.1-SNAPSHOT-DEV
+main: net.skaerf.beatcraft.BeatCraft
+description: BeatSaber, but cheaper.
+authors: [skaerf, noblue5]
+depend: []
+softdepend: []
+commands:
