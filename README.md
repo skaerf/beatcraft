@@ -1,2 +1,2 @@
-# beatcraft
-BeatCraft minecraft plugin: BeatSaber in Minecraft!
+# BeatCraft Minecraft plugin
+BeatSaber in Minecraft!
